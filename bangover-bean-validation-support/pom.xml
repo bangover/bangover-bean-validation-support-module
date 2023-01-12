@@ -42,7 +42,6 @@
 		<dependency>
 			<groupId>cloud.bangover.validation</groupId>
 			<artifactId>bangover-validation</artifactId>
-			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
 
